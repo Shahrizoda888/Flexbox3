@@ -1,0 +1,30 @@
+body{
+    background-color: #e2c59f;
+}
+
+
+
+.container {
+    
+    border: 10px solid #fff;
+    text-align: center;
+    font-size: 3em;
+    color: #ffffff;
+}
+
+
+.container > div{
+    padding: 4px;
+}
+
+
+.container > div:nth-child(odd){
+    background-color: #745;
+}
+
+
+
+
+.container > div:nth-child(even){
+    background-color: #888;
+}

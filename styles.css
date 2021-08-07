@@ -1,0 +1,52 @@
+.container{
+    display:flex;
+    flex-direction: row;
+    
+    flex-wrap: wrap;
+}
+
+
+
+
+.container > div{
+    flex-basis: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
